@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="/">
+		<file alias="logo.png">..\sources\images\logo.png</file>
+		<file alias="open.svg">..\sources\images\open.svg</file>
+		<file alias="pause.svg">..\sources\images\pause.svg</file>
+		<file alias="play.svg">..\sources\images\play.svg</file>
+		<file alias="reset.svg">..\sources\images\reset.svg</file>
+		<file alias="welcome.png">..\sources\images\welcome.png</file>
+	</qresource>
+</RCC>
